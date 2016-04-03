@@ -1,1 +1,2 @@
 un fichier txt d'exemple
+modifié en local avec le tag 1.0.0
